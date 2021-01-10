@@ -7,7 +7,8 @@ Matcha<br/>
 
 
 <a href="https://whispering-sierra-80966.herokuapp.com/">TodoList</a><br/>
-
+<img width="400px" heigth="300px" src="gif/todolist.gif"></img><br/>
+<a href="https://github.com/pikooli/Tindog">repo</a> Html Javascript Css MongoDB
   
   
 <a href="https://pikooli.github.io/Tindog/">Tindog</a><br/>
