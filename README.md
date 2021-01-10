@@ -11,7 +11,7 @@ Matcha<br/>
 <a href="https://github.com/pikooli/todoList">repo</a> Html Javascript Css MongoDB
   
   
- <a href="https://stark-escarpment-31352.herokuapp.com/">TodoList</a><br/>
+ <a href="https://stark-escarpment-31352.herokuapp.com/">BlogPost</a><br/>
 <img width="400px" heigth="300px" src="gif/blog.gif"></img><br/>
 <a href="https://github.com/pikooli/BlogPost">repo</a> Html Javascript Css MongoDB
   
