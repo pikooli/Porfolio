@@ -1,5 +1,7 @@
 # Porfolio
 
+A presentation of all my work
+
 Matcha<br/>
 <img width="400px" heigth="300px" src="gif/matcha.gif"></img><br/>
 <a href="https://github.com/pikooli/Matcha">repo</a> ReactJs NodeJS ExpressJS PostgreSQL Docker
