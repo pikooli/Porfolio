@@ -2,6 +2,10 @@
 
 A presentation of all my work
 <a href="https://powerful-plains-63141.herokuapp.com/">Nestor</a>
+<img width="400px" heigth="300px" src="gif/apartment.gif"></img>
+<img width="400px" heigth="300px" src="gif/booking.gif"></img>
+<img width="400px" heigth="300px" src="gif/client.gif"></img>
+<img width="400px" heigth="300px" src="gif/room.gif"></img>
 <a href="https://github.com/pikooli/NestorAppartement">repo</a> ReactJs NodeJS Redux
 
 Matcha<br/>
