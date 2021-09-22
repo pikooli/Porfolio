@@ -50,9 +50,6 @@ Html Javascript Css
 
 More detail in <a href="https://github.com/pikooli/DrumKit">Repo</a>
 
-<a href="https://serene-everglades-79214.herokuapp.com/#home">Linkin Park</a>
-A personnal project about the group Linkin Park, with the help of ReactJS
-
 <a href="https://pikooli.github.io/TheSimonGame/">The Simon Game</a><br/>
 <img width="400px" heigth="300px" src="gif/simonGame.gif"></img><br/>
 Html Javascript Css
