@@ -9,11 +9,13 @@ A presentation of all my work
   <img width="400px" heigth="300px" src="gif/client.gif"></img>
   <img width="400px" heigth="300px" src="gif/room.gif"></img>
 <br/>
-<a href="https://github.com/pikooli/NestorAppartement">Repo</a> ReactJs NodeJS Redux
+ReactJs NodeJS Redux
+More detail in <a href="https://github.com/pikooli/NestorAppartement">Repo</a> 
 
 Matcha<br/>
 <img width="400px" heigth="300px" src="gif/matcha.gif"></img><br/>
-<a href="https://github.com/pikooli/Matcha">Repo</a> ReactJs NodeJS ExpressJS PostgreSQL Docker
+ReactJs NodeJS ExpressJS PostgreSQL Docker
+More detail in <a href="https://github.com/pikooli/Matcha">Repo</a> 
 
 <a href="https://whispering-sierra-80966.herokuapp.com/">TodoList</a><br/>
 <img width="400px" heigth="300px" src="gif/todolist.gif"></img><br/>
