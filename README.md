@@ -2,6 +2,15 @@
 
 A presentation of all my work
 
+<a href="https://main.d3jubio8dkbq5z.amplifyapp.com/">Spotify</a>
+<br/>
+
+<br/>
+A ReactJs application make with spotify api for a technical test.
+
+More detail in <a href="https://github.com/pikooli/spotify">Repo</a> 
+
+
 <a href="https://powerful-plains-63141.herokuapp.com/">Nestor</a>
 <br/>
   <img width="400px" heigth="300px" src="gif/apartment.gif"></img>
