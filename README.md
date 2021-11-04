@@ -6,7 +6,7 @@ A presentation of all my work
 <br/>
   <img width="400px" heigth="300px" src="gif/spotify.gif"></img>
 <br/>
-A ReactJs application make with spotify api for a technical test.
+ReactJs with aws amplify
 
 More detail in <a href="https://github.com/pikooli/spotify">Repo</a> 
 
