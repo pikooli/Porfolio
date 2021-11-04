@@ -4,7 +4,7 @@ A presentation of all my work
 
 <a href="https://main.d3jubio8dkbq5z.amplifyapp.com/">Spotify</a>
 <br/>
-
+  <img width="400px" heigth="300px" src="gif/spotify.gif"></img>
 <br/>
 A ReactJs application make with spotify api for a technical test.
 
